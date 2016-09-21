@@ -1,0 +1,3 @@
+module.exports = { [  {"id": 1, "author": "mcpants", "body": "I wear the pants", "pic": "https://s-media-cache-ak0.pinimg.com/564x/72/5d/d6/725dd6df17bc61d60b6ca442d3bc493d.jpg"},
+  {"id": 2, "author": "Jarreth", "body": "That's Jarreth!", "pic": "https://s-media-cache-ak0.pinimg.com/564x/4b/53/55/4b53554766a2ed8fe948c08b09f37b1b.jpg"},
+  {"id": 3, "author": "olive", "body": "give me stew!", "pic": "http://www.jamiesale-cartoonist.com/wp-content/uploads/cartoon-cat-free.png"}]}
